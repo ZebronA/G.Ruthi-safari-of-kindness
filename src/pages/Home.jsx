@@ -323,9 +323,6 @@ const Home = () => {
                             Join the Journey
                         </button>
 
-                        {/* Optional: Add your own decorative SVGs/images here */}
-                        {/* Example: top-right rainbow graphic */}
-                        {/* Absolutely positioned, or as background SVGs */}
                     </div>
                 </div>
 
