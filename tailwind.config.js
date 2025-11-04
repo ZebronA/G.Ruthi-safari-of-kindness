@@ -5,7 +5,7 @@ export default {
     extend: {
       colors: {
   brand: {
-    surface: '#f3f4f6',           // Light Gray
+    surface: '0000',           // black
     primary: '#86efac',           // soft green
     'primary-dark': '#16a34a',    // strong green
     text: '#0a0a0a',              // text color soft black
